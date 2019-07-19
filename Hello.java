@@ -10,6 +10,8 @@ public static void main(String[] args){
 
 	
 	System.out.println("嘻嘻");
+	
+	System.out.println("本地也修改");
 
 }
 }
